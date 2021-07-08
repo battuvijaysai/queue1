@@ -80,7 +80,7 @@ int main()
             break;
             default:exit(0);
         }
-     }
+    }
 }
 
 
